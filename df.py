@@ -5,7 +5,7 @@ import numpy as np
 
 
 # 第一部分：数据汇总部分
-st.title('F-业务数据汇总')
+st.title('F-业务数据汇总11')
 
 col1, col2, col3 = st.columns(3)
 col1.metric("总量", "888888 个", "1.2 °F")
